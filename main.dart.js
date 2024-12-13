@@ -116903,7 +116903,7 @@ aUW(a){return this.o_(a,!0)},
 aUX(a,b){var s=0,r=A.o(t.H),q,p=this,o,n
 var $async$o_=A.k(function(c,d){if(c===1)return A.l(d,r)
 while(true)switch(s){case 0:n=p.y
-n.dV(2)
+n.dV(1)
 o=new A.ce(Date.now(),0,!1).h7(a.f)
 A.dC("playTTS diff: "+o.j(0))
 s=b?3:5
@@ -116938,7 +116938,7 @@ aUV(a,b){var s=0,r=A.o(t.H),q=this,p,o
 var $async$nZ=A.k(function(c,d){if(c===1)return A.l(d,r)
 while(true)switch(s){case 0:J.eO(q.r.a7(0,$.amK().$1(q.w).gav(),t.E3),null)
 p=q.y
-p.dV(1)
+p.dV(0.5)
 o=new A.ce(Date.now(),0,!1).h7(a.f)
 A.dC("playMusic diff: "+o.j(0))
 s=b?2:4
